@@ -12,7 +12,7 @@ Note: this is not the full code of EvilModel. It's just a demo.
 
 `Malware` dir contains the samples we used in the experiments. We only use `Lazurus` in this demo. Full version of `Malware` is collected from [theZoo](https://github.com/ytisf/theZoo) and [InQuest](https://github.com/InQuest/malware-samples), and is available at [Google Drive](https://drive.google.com/file/d/15ivwxbQBadkXBgI8LGTyMWYQOrXMs1YP/view?usp=share_link) (unzip password: `malware`).
 
-## Suplymentaries
+## Supplementaries
 
 __Other implementations__
 
