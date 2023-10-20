@@ -12,11 +12,14 @@ Note: this is not the full code of EvilModel. It's just a demo.
 
 `Malware` dir contains the samples we used in the experiments. We only use `Lazurus` in this demo. Full version of `Malware` is collected from [theZoo](https://github.com/ytisf/theZoo) and [InQuest](https://github.com/InQuest/malware-samples), and is available at [Google Drive](https://drive.google.com/file/d/15ivwxbQBadkXBgI8LGTyMWYQOrXMs1YP/view?usp=share_link) (unzip password: `malware`).
 
-## Other implementations
+## Suplymentaries
 
-Other implementations. They're awesome :) 
+__Other implementations__
 
+They're awesome :) 
 [Implementation 1](https://github.com/gaborvecsei/Neural-Network-Steganography) (by [@Gábor Vecsei](https://www.gaborvecsei.com/)) [Implementation 2](https://github.com/fishjojo1/pyfltemb) 
+
+[Slides](https://zw.ac.cn/files/EvilModel_presentation.pdf) at [ISCC 2021](https://iscc2021.unipi.gr/)
 
 ## Cite
 
