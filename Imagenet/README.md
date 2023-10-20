@@ -1,0 +1,1 @@
+Put ILSVRC2012_img_val.tar and ILSVRC2012_devkit_t12.tar.gz in this dir.
