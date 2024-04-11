@@ -17,7 +17,7 @@ Note: this is not the full code of EvilModel. It's just a demo.
 __Other implementations__
 
 They're awesome :) 
-[Implementation 1](https://github.com/gaborvecsei/Neural-Network-Steganography) (by [@Gábor Vecsei](https://www.gaborvecsei.com/)) [Implementation 2](https://github.com/fishjojo1/pyfltemb) 
+[Implementation 1](https://github.com/gaborvecsei/Neural-Network-Steganography) (by [@Gábor Vecsei](https://www.gaborvecsei.com/)) [Implementation 2](https://github.com/fishjojo1/pyfltemb) [Implementation 3](https://hiddenlayer.com/research/weaponizing-machine-learning-models-with-ransomware/) 
 
 [Slides](https://zw.ac.cn/files/EvilModel_presentation.pdf) at [ISCC 2021](https://iscc2021.unipi.gr/)
 
